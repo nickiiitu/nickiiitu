@@ -36,11 +36,11 @@ see myself as an emerging badminton player, my area of interest also lies in Tab
 
 <p align="left">  <a href="https://github.com/nickiiitu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nikhil-bhatia-0518a9201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  </p>
 
-
+<!-- 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nickiiitu/Expressions" align="left"><img align="left" width="45%"  /></a><a href="https://github.com/Vetrivel-VP/foodapp-yt-mar22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=foodapp-yt-mar22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/nickiiitu/Expressions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=watchme_fullstack_sanity_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vetrivel-VP/foodapp-yt-mar22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=foodapp-yt-mar22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
+<!-- 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
