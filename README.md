@@ -36,21 +36,10 @@ see myself as an emerging badminton player, my area of interest also lies in Tab
 
 <p align="left">  <a href="https://github.com/nickiiitu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nikhil-bhatia-0518a9201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  </p>
 
-### Badges
-<!-- 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vetrivel-VP"><img src="https://github-readme-stats.vercel.app/api?username=Vetrivel-VP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vetrivel-VP's GitHub stats" /></a>
-
-<a href="http://www.github.com/Vetrivel-VP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vetrivel-VP&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- -->
-
-<a href="http://www.github.com/Vetrivel-VP"><img src="https://activity-graph.herokuapp.com/graph?username=Vetrivel-VP&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Vetrivel-VP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel-VP&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nickiiitu/Expressions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=watchme_fullstack_sanity_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vetrivel-VP/foodapp-yt-mar22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=foodapp-yt-mar22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/nickiiitu/Expressions" align="left"><img align="left" width="45%"  /></a><a href="https://github.com/Vetrivel-VP/foodapp-yt-mar22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=foodapp-yt-mar22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
