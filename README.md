@@ -5,8 +5,8 @@ Hi 👋 My name is Nikhil Bhatia
 Full Stack / Mern Stack Web Developer
 ------------------------
 
-I am Nikhil Bhatia , a website developer enthusiast. I was born and brought up in Jaipur, Rajasthan. I have completed my secondary and senior secondary education 
-from St. Anslem's Pink City Sr. Sec. School , Jaipur. I am currently pursuing B.Tech in Electronics and Communication Engineering from IIIT, Una ,Himachal Pradesh.
+I am Nikhil Bhatia , a website developer enthusiast. I was born and brought up in Jaipur, Rajasthan. I am currently pursuing B.Tech in Electronics and Communication Engineering from IIIT, Una ,Himachal Pradesh. 
+I have completed my secondary and senior secondary education from St. Anslem's Pink City Sr. Sec. School , Jaipur.
 As a professional , I posses through understanding of complex concepts of Website Development and Data Structures and Algorithms which highlights me as an ideal job seeker. Coming to my hobbies , I 
 see myself as an emerging badminton player, my area of interest also lies in Tabel Tennis and kabaddi.
 
